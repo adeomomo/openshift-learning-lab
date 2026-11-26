@@ -23,5 +23,5 @@ This repository tracks a hands-on platform engineering learning lab focused on b
 
 
 ## Next Steps
--- Docker fundamentals and building a small Alpine web server
+- Docker fundamentals and building a small Alpine web server
 
