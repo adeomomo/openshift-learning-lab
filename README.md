@@ -5,8 +5,8 @@ This repository tracks a hands-on platform engineering learning lab focused on b
 
 ## Learning Progress
 
-- [ ] 1. GitHub Fundamentals
-- [ ] 2. Docker Fundamentals
+- [ ] 1. GitHub Setup
+- [ ] 2. Docker Setup 
 - [ ] 3. AWS ECR
 - [ ] 4. GitHub Actions
 - [ ] 5. OpenShift Fundamentals
@@ -19,7 +19,9 @@ This repository tracks a hands-on platform engineering learning lab focused on b
 
 - **Platform:** OpenShift Developer Sandbox
 - **Project / Namespace:** aomomo2-dev
+> **Note:** Store only the project/namespace name here. Never commit credentials, login tokens, kubeconfigs, or sensitive endpoints to the repository.
+
 
 ## Next Steps
+-- Docker fundamentals and building a small Alpine web server
 
-> **Note:** Store only the project/namespace name here. Never commit credentials, login tokens, kubeconfigs, or sensitive endpoints to the repository.
