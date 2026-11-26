@@ -18,6 +18,8 @@ This repository tracks a hands-on platform engineering learning lab focused on b
 ## OpenShift Environment
 
 - **Platform:** OpenShift Developer Sandbox
-- **Project / Namespace:** `<your-openshift-project-name>`
+- **Project / Namespace:** aomomo2-dev
+
+## Next Steps
 
 > **Note:** Store only the project/namespace name here. Never commit credentials, login tokens, kubeconfigs, or sensitive endpoints to the repository.
